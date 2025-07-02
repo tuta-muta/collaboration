@@ -1,0 +1,119 @@
+---
+title: "Burden of Urogenital Cancers in the United States"
+subtitle: "Call for Research Collaborators"
+search: false
+date: 2025-07-02
+format: 
+  revealjs:
+    footer: "Queries should be directed to **sbl46eo0@tutamail.com**"
+    navigation-mode: linear
+    controls: true
+
+theme: [default, metropolis]
+transition: fade
+scrollable: true
+output-file: index.html
+---
+
+# Research Overview
+
+## 
+
+I am currently seeking a dedicated and qualified collaborator to join two manuscript projects on the **burden of urological cancers**—specifically, **testicular** and **prostate** cancers in the United States.
+
+These projects are supervised by faculty members in the US, with the potential for co-supervision from colleagues in Canada and Europe. You will be directly mentored by me as the lead researcher (identity anonymized for now).  
+You may review my anonymized CV [here](anonymized%20resume.html){target="_blank"}.
+
+
+# What I’m Looking For
+
+## 
+
+We’re building a team that values collaborative mentorship with academic rigor. I’m looking for a research partner who embodies a **mutual commitment to excellence** and brings both independence and reliability to the work.
+
+
+**Required:**
+
+- Degree in **medicine** or **public health** (preferably completed).
+- Strong understanding of health burden metrics: ***DALY***, ***YLL***, ***YLD***, ***incidence***, ***prevalence***.
+- At least **5 publications**; first- or corresponding-authorship is highly valued.
+- Demonstrated ability to **deliver high-quality work on deadline**.
+- Skilled in **scientific writing**.
+
+
+
+# Your Role
+
+## 
+
+You will primarily contribute to the following:
+
+- Drafting the **Introduction** and **Discussion** sections of the manuscripts.
+- Supporting revisions during the peer-review process.
+
+Regular communication is essential. I encourage thoughtful questions and constructive dialogue—it signals investment and engagement.
+
+
+# What You Can Expect From Me
+
+## 
+
+- **Second authorship** on the manuscripts (4–6 total authors anticipated).
+- Ongoing inclusion in future research efforts, pending a positive experience.
+- A **growth-focused partnership**—I am committed to sharing knowledge and supporting your development, no matter the time investment.
+
+> While I uphold high standards, I aim to mentor with empathy and professionalism.
+
+
+# Work Samples
+
+## 
+
+These projects analyze more than **14 million records** using **R**, producing over **2,700 figures**. A custom web-based application will host interactive visualizations that cannot be included in the manuscripts.
+
+Below are a few representative outputs directly from the analysis:
+
+---
+
+![Figure 1: Trends in burden measures across high-income countries](images/clipboard-1754275863.png)
+
+---
+
+![Geographic variation of DALY rates across U.S. states](images/clipboard-4071775564.png)
+
+---
+
+![Prostate cancer DALY trends by age group in South Carolina](images/clipboard-612503697.png)
+
+---
+
+![Dynamic pyramid plot – Prostate cancer DALY rate in South Carolina](images/clipboard-5458584578.gif)
+
+---
+
+![Percent change in burden metrics since initial observation (sample table)](images/clipboard-793566459.png)
+
+---
+
+![State-level rankings of urological cancer burden](images/clipboard-3713188002.png)
+
+
+
+
+#
+
+I’ve had the privilege of working with outstanding collaborators—and have also learned when to respectfully part ways when standards aren’t met.
+
+This opportunity is best suited to those who appreciate clarity, structure, and mutual respect in scientific work. If you thrive under those conditions, I look forward to hearing from you.
+
+# 
+
+> *In my opinion, these projects typically take no more than one month under standard conditions. So, I expect you to complete a quality draft of intro+discussion in no more than **two weeks**.*
+
+# How to Apply
+
+If you are interested in contributing to this research and believe you would be a good fit, please submit your credentials using the form below:
+
+[**Submit Application**](https://forms.gle/7WbL87Z9VdtVi8H48){target="_blank"}
+
+Please make sure to include your **email address** and **Telegram ID** so I can follow up. If another candidate is selected, I will inform you respectfully by email.

@@ -1,0 +1,78 @@
+---
+description: Anonymized Resume
+title: Professional Profile
+---
+
+<div>
+
+# Clinical Data Scientist & Researcher {#user-name}
+
+**General physician**, **researcher**, and **clinical data scientist** with
+expertise in clinical epidemiology and reproducible research.\
+Specialized in **meta-analysis**, **machine learning**, and **clinical
+research design**.
+
+</div>
+
+::: {.section .section--page}
+## Core Competencies
+
+-   **Research Metrics**: H-index of 7 with multiple first/corresponding
+    authorships.
+-   **Methodological Expertise**:
+    -   Systematic reviews & meta-analyses (20+ publications)
+    -   Diagnostic test accuracy studies
+    -   Large-scale registry data analysis
+-   **Clinical Research Leadership**:
+    -   Designed and executed randomized controlled trials
+    -   Managed multicenter cohort studies
+:::
+
+::: {.section .section--page}
+## Technical Skills
+
+✔ **Statistical Analysis**\
+- Advanced regression modeling\
+- Survival analysis\
+- Diagnostic test evaluation
+
+✔ **Programming & Tools**\
+- R (Shiny, tidyverse)\
+- Python (pandas, scikit-learn)\
+- Stata · SPSS · GraphPad
+
+✔ **Research Domains**\
+- Cardiovascular epidemiology\
+- Endocrine disorders\
+- Surgical outcomes\
+- Infectious diseases
+:::
+
+::: {.section .section--page}
+## Academic Contributions
+
+-   **Peer Review**: 50+ reviews for 10+ journals including:
+    -   General medicine\
+    -   Surgical specialties\
+    -   Epidemiology\
+-   **Editorial Board Member** for Q1 multidisciplinary journal
+    (2024-2025)
+:::
+
+::: {.section .section--page}
+## Selected Achievements
+
+-   Led 5+ meta-analyses with clinical practice implications\
+-   Developed machine learning models for disease prediction\
+-   Contributed to international clinical guidelines\
+-   Recognized for methodological rigor in systematic reviews
+:::
+
+::: {.section .section--page}
+## Research Focus Areas
+
+-   Reproducible research workflows\
+-   Clinical data visualization\
+-   Health technology assessment\
+-   Research methodology education
+:::

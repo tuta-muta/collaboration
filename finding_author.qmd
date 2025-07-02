@@ -95,7 +95,7 @@ Below are a few representative outputs directly from the analysis:
 
 ---
 
-![State-level rankings of urological cancer burden](images/clipboard-3713188002.png)
+![State-level rankings of urological cancer burden](images/clipboard-3713188002.jpg)
 
 
 
